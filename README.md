@@ -79,6 +79,9 @@ Sir Syed University of Engineering & Technology *(2019 – 2023)*
 **Pre-Engineering**  
 Govt. Dehli College *(2016 – 2018)*
 
+**Matriculation**  
+S.M Public Academy *(2015 – 2016)*
+
 ---
 
 ## GitHub Statistics
