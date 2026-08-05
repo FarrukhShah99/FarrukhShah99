@@ -65,8 +65,7 @@ Git, GitHub, VS Code, Figma, Microsoft Azure
 
 | Certification | Issuer | Year |
 |---------------|--------|------|
-| Microsoft Azure AI Fundamentals (AI-900) | Microsoft / NAVTTC | 2026 |
-| AI — Machine Learning and Deep Learning | NAVTTC | 2026 |
+| Microsoft Azure AI Fundamentals (AI-900) | Microsoft & NAVTTC | 2026 |
 | Cybersecurity and Ethical Hacking | NED University of Engineering and Technology | 2026 |
 | Customer Services | Ibex | 2026 |
 
