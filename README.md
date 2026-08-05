@@ -18,7 +18,7 @@
 - 🔭 I'm currently working on **AI Chatbots & Web Apps**
 - 🌱 Learning **React, Python & Machine Learning**
 - 💬 Ask me about **Web Development & Chatbots**
-- 📫 Reach me at: **your.email@gmail.com**
+- 📫 Reach me at: **farrukhshah1020@gmail.com**
 - ⚡ Fun fact: **I love turning ideas into code!**
 
 ---
