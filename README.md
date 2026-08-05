@@ -121,7 +121,7 @@ Govt. Dehli College *(2016 – 2018)*
 - **Email:** farrukhshah1020@gmail.com  
 - **Phone:** +92 334 3285552  
 - **Location:** Karachi, Pakistan  
-- **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN](https://linkedin.com/in/YOUR-LINKEDIN)
+- **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/farrukh-shah-17027818b/)
 
 <!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=120&section=footer" />
