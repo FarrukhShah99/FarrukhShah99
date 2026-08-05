@@ -1,12 +1,26 @@
-# Farrukh Shah
+<!-- ANIMATED GRADIENT BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Farrukh%20Shah&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Aspiring%20Data%20Analyst&descAlignY=60&descSize=18&animation=fadeIn" />
 
-**Software Engineer | Aspiring Data Analyst**
+<!-- TYPING ANIMATION HEADLINE -->
+<p align="center">
+  <a href="https://github.com/FarrukhShah99">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Engineer+with+2%2B+Years+of+Experience;Transitioning+into+Data+Analytics;Turning+Raw+Data+into+Meaningful+Insights;Microsoft+Certified+in+Azure+AI+Fundamentals" />
+  </a>
+</p>
 
-Based in Karachi, Pakistan. Software Engineer with 2+ years of experience in full-stack development, currently transitioning into Data Analytics. Passionate about turning raw data into meaningful business insights.
+<!-- CLEAN INFO BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Karachi,%20Pakistan-0D1117?style=flat-square&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-58A6FF?style=flat-square&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-1F6FEB?style=flat-square&labelColor=161B22" />
+  <img src="https://komarev.com/ghpvc/?username=FarrukhShah99&label=Profile%20Views&color=1F6FEB&style=flat-square&labelColor=161B22" />
+</p>
 
 ---
 
 ## About
+
+Based in Karachi, Pakistan. Software Engineer with 2+ years of experience in full-stack development, currently transitioning into Data Analytics. Passionate about turning raw data into meaningful business insights.
 
 I began my career as a Frontend Developer and grew into a Full Stack role, working on responsive web applications and enterprise ERP solutions. I am now focused on building a career in Data Analytics, leveraging my technical background to work with data, statistics, and business intelligence tools.
 
@@ -74,6 +88,10 @@ Govt. Dehli College *(2016 – 2018)*
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=FarrukhShah99&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarrukhShah99&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
+<br/><br/>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=FarrukhShah99&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF" />
+
 </div>
 
 ---
@@ -82,7 +100,17 @@ Govt. Dehli College *(2016 – 2018)*
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FarrukhShah99&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&hide_border=true" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=FarrukhShah99&theme=github-compact&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/FarrukhShah99/FarrukhShah99/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -94,3 +122,6 @@ Govt. Dehli College *(2016 – 2018)*
 - **Phone:** +92 334 3285552  
 - **Location:** Karachi, Pakistan  
 - **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN](https://linkedin.com/in/YOUR-LINKEDIN)
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=120&section=footer" />
