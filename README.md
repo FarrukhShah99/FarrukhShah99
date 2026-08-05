@@ -20,14 +20,15 @@
 
 ## About
 
-Based in Karachi, Pakistan. Software Engineer with 2+ years of experience in full-stack development, currently transitioning into Data Analytics. Passionate about turning raw data into meaningful business insights.
+Based in Karachi, Pakistan. Aspiring Data Analyst with 2+ years of prior experience as a Software Engineer. Currently focused full-time on building expertise in data analytics, visualization, and business intelligence. Passionate about turning raw data into meaningful business insights.
 
-I began my career as a Frontend Developer and grew into a Full Stack role, working on responsive web applications and enterprise ERP solutions. I am now focused on building a career in Data Analytics, leveraging my technical background to work with data, statistics, and business intelligence tools.
+I began my career as a Frontend Developer and grew into a Full Stack role, working on responsive web applications and enterprise ERP solutions. I have now shifted my focus toward Data Analytics, leveraging my technical background to work confidently with data, statistics, and BI tools. Actively looking for remote opportunities where I can contribute and grow as a Data Analyst.
 
-- Currently working as **Full Stack Developer** at Propstar Technologies
-- Learning **Python, SQL, Power BI, and Tableau** for data analysis
+- Actively seeking **remote Data Analyst opportunities**
+- Full-time focus on **Python, SQL, Power BI, and Tableau** for data analysis
 - Microsoft Certified in **Azure AI Fundamentals (AI-900)**
-- Open to collaboration on data-driven projects
+- 2+ years of prior experience in **Full Stack Development** (React, JavaScript, Frappe ERPNext)
+- Open to collaboration on data-driven projects and freelance work
 - Reach me at: **farrukhshah1020@gmail.com**
 
 ---
@@ -35,7 +36,7 @@ I began my career as a Frontend Developer and grew into a Full Stack role, worki
 ## Professional Experience
 
 **Full Stack Developer** — Propstar Technologies  
-*May 2026 – Present*  
+*May 2026 – July 2026*  
 Providing technical support and troubleshooting for Frappe ERPNext systems. Collaborating with development teams to identify and resolve application issues, ensuring smooth system functionality and high user satisfaction.
 
 **Frontend Developer** — Jetnetix Solutions  
