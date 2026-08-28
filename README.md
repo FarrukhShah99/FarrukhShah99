@@ -61,7 +61,7 @@ Built responsive and user-friendly websites using clean, custom HTML, CSS, and J
 Python, JavaScript, HTML5, CSS3, SQL
 
 **Data & Analytics**  
-Pandas, NumPy, Power BI, Microsoft Excel, MySQL
+Pandas, NumPy, Power BI, Microsoft Excel
 
 **Web Development**  
 React.js, Node.js, GSAP, Frappe ERPNext
