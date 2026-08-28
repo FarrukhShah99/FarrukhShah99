@@ -25,9 +25,9 @@ Based in Karachi, Pakistan. Aspiring Data Analyst with 2+ years of prior experie
 I began my career as a Frontend Developer and grew into a Full Stack role, working on responsive web applications and enterprise ERP solutions. I have now shifted my focus toward Data Analytics, leveraging my technical background to work confidently with data, statistics, and BI tools. Actively looking for remote opportunities where I can contribute and grow as a Data Analyst.
 
 - Actively seeking **remote Data Analyst opportunities**
-- Full-time focus on **Python, SQL, Power BI, and Tableau** for data analysis
+- Full-time focus on **Python, SQL, and Power BI** for data analysis
 - Microsoft Certified in **Azure AI Fundamentals (AI-900)**
-- 2+ years of prior experience in **Full Stack Development** (React, JavaScript, Frappe ERPNext)
+- 2+ years of prior experience in **Software Engineering** (React, JavaScript, Frappe ERPNext, Python)
 - Open to collaboration on data-driven projects and freelance work
 - Reach me at: **farrukhshah1020@gmail.com**
 
