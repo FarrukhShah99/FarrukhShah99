@@ -27,7 +27,7 @@ I began my career as a Frontend Developer and grew into a Full Stack role, worki
 - Actively seeking **remote Data Analyst opportunities**
 - Full-time focus on **Python, SQL, and Power BI** for data analysis
 - Microsoft Certified in **Azure AI Fundamentals (AI-900)**
-- 2+ years of prior experience in **Software Engineering** (React, JavaScript, Frappe ERPNext, Python)
+- 2+ years of prior experience in **Software Engineering** (React, JavaScript, Frappe ERPNext, Python, Oracle APEX)
 - Open to collaboration on data-driven projects and freelance work
 - Reach me at: **farrukhshah1020@gmail.com**
 
