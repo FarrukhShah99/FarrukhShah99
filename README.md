@@ -37,19 +37,22 @@ I began my career as a Frontend Developer and grew into a Full Stack role, worki
 
 **Full Stack Developer** — Propstar Technologies  
 *May 2026 – July 2026*  
-• Provide technical support and troubleshooting for Frappe ERPNext systems used by clients.
-• Assist end-users with system issues, bugs, and queries, ensuring timely resolution.
-• Collaborate with development teams to identify and fix application errors.
-• Document support tickets, resolutions, and system updates for future reference.
-• Perform system testing and validation after fixes to ensure stability.
-• Support system configuration, user access management, and data integrity.
-• Train and guide users on ERP system functionality and best practices.
-• Ensure smooth system functionality and high user satisfaction.
+- Provide technical support and troubleshooting for Frappe ERPNext systems used by clients.
+- Assist end-users with system issues, bugs, and queries, ensuring timely resolution.
+- Collaborate with development teams to identify and fix application errors.
+- Document support tickets, resolutions, and system updates for future reference.
+- Perform system testing and validation after fixes to ensure stability.
+- Support system configuration, user access management, and data integrity.
+- Train and guide users on ERP system functionality and best practices.
+- Ensure smooth system functionality and high user satisfaction.
 
 **Frontend Developer** — Jetnetix Solutions  
 *Jul 2023 – Oct 2025*  
-Built responsive, user-friendly websites using clean HTML, CSS, and JavaScript. Contributed to 8+ commercial website projects and reduced CSS code redundancy by 20% through modular SCSS structuring.
-
+Built responsive and user-friendly websites using clean, custom HTML, CSS, and JavaScript.
+- Crafted simple and visually appealing designs with smooth and consistent layouts.
+- Ensured cross-device compatibility for seamless performance on all screen sizes.
+- Focused on usability and accessibility to create an inclusive user experience.
+- Maintained strong attention to detail to deliver polished and high-quality front-end solutions
 ---
 
 ## Technical Skills
