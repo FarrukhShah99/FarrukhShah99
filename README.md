@@ -37,7 +37,14 @@ I began my career as a Frontend Developer and grew into a Full Stack role, worki
 
 **Full Stack Developer** — Propstar Technologies  
 *May 2026 – July 2026*  
-Providing technical support and troubleshooting for Frappe ERPNext systems. Collaborating with development teams to identify and resolve application issues, ensuring smooth system functionality and high user satisfaction.
+• Provide technical support and troubleshooting for Frappe ERPNext systems used by clients.
+• Assist end-users with system issues, bugs, and queries, ensuring timely resolution.
+• Collaborate with development teams to identify and fix application errors.
+• Document support tickets, resolutions, and system updates for future reference.
+• Perform system testing and validation after fixes to ensure stability.
+• Support system configuration, user access management, and data integrity.
+• Train and guide users on ERP system functionality and best practices.
+• Ensure smooth system functionality and high user satisfaction.
 
 **Frontend Developer** — Jetnetix Solutions  
 *Jul 2023 – Oct 2025*  
